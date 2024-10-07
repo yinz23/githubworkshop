@@ -3,3 +3,5 @@ hi my name is hazel
 I like hiking
 
 I like red
+
+I am cat
